@@ -100,3 +100,7 @@ article('blog/pregnancy-meal-planning.html','A pregnancy meal plan with room for
 (ROOT/'robots.txt').write_text('User-agent: *\nDisallow: /\n')
 paths=['index.html','how-it-works.html','contact.html','privacy-policy.html','terms-of-use.html','consumer-health-privacy.html','sources.html','blog/index.html','blog/pregnancy-food-safety.html','blog/pregnancy-meal-planning.html']
 (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{DOMAIN}/{p}</loc><lastmod>{DATE}</lastmod></url>' for p in paths)+'</urlset>')
+
+# Rebuild the expanded journal after the original site generation.
+from blog_build import build as build_blog
+build_blog(ROOT)

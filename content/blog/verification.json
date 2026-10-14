@@ -1,0 +1,12 @@
+{
+  "articles": 30,
+  "covers": 30,
+  "total_words": 14148,
+  "min_words": 446,
+  "max_words": 496,
+  "local_links": "pass",
+  "structured_data": "pass",
+  "cta": "prelaunch",
+  "indexable": true,
+  "publication": "local build checked; remote publication tracked separately"
+}

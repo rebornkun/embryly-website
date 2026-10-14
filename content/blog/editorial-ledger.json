@@ -1,0 +1,862 @@
+[
+  {
+    "slug": "sushi-while-pregnant",
+    "title": "Can You Eat Sushi While Pregnant? What to Order and Ask",
+    "query": "can you eat sushi while pregnant",
+    "category": "Food safety",
+    "sources": [
+      "fish",
+      "meat",
+      "restaurant"
+    ],
+    "related": [
+      "salmon-during-pregnancy",
+      "eating-out-while-pregnant"
+    ],
+    "scene": "a pregnant woman with curly dark hair at a table looking at her phone beside cooked vegetable sushi rolls",
+    "alt": "Pregnant woman consulting her phone beside a plate of vegetable sushi",
+    "editorial_date": "2026-08-25",
+    "description": "Learn what to ask about sushi during pregnancy, from cooked fillings and raw toppings to fish choices and takeaway handling.",
+    "word_count": 488,
+    "sources_used": [
+      "meat",
+      "fish",
+      "restaurant"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "deli-meat-while-pregnant",
+    "title": "Can You Eat Deli Meat While Pregnant? A Sandwich Guide",
+    "query": "deli meat while pregnant",
+    "category": "Food safety",
+    "sources": [
+      "ready",
+      "cdc",
+      "storage"
+    ],
+    "related": [
+      "pregnancy-lunch-ideas",
+      "leftovers-during-pregnancy"
+    ],
+    "scene": "pregnant woman at a kitchen counter assembling a hot sandwich with a skillet nearby, sparse steam lines above the skillet",
+    "alt": "Woman preparing a hot sandwich at a kitchen counter",
+    "editorial_date": "2026-08-27",
+    "description": "A practical guide to deli meat during pregnancy: heating the filling, choosing sandwich alternatives and checking storage.",
+    "word_count": 473,
+    "sources_used": [
+      "cdc",
+      "ready",
+      "storage"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "cheese-during-pregnancy",
+    "title": "What Cheese Can You Eat While Pregnant? Read the Label",
+    "query": "cheese safe during pregnancy",
+    "category": "Food safety",
+    "sources": [
+      "dairy",
+      "cdc"
+    ],
+    "related": [
+      "pregnancy-grocery-list",
+      "caesar-salad-during-pregnancy"
+    ],
+    "scene": "pregnant woman with straight dark hair inspecting a plain cheese package beside two small cheese wedges in a grocery aisle suggested by one shelf",
+    "alt": "Woman checking a cheese package with cheese wedges nearby",
+    "editorial_date": "2026-08-28",
+    "description": "Check cheese type, pasteurization and preparation during pregnancy, with practical label questions and shopping advice.",
+    "word_count": 480,
+    "sources_used": [
+      "cdc",
+      "dairy"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "caffeine-during-pregnancy",
+    "title": "Coffee During Pregnancy: Count Caffeine Across Your Day",
+    "query": "how much caffeine during pregnancy",
+    "category": "Drinks",
+    "sources": [
+      "caffeine",
+      "acog"
+    ],
+    "related": [
+      "pumpkin-spice-latte-pregnancy",
+      "smoothies-during-pregnancy"
+    ],
+    "scene": "pregnant woman at a breakfast table comparing a small coffee mug and a tea cup with a little notebook, no readable writing",
+    "alt": "Woman comparing coffee and tea beside a notebook",
+    "editorial_date": "2026-08-30",
+    "description": "Count caffeine across coffee, tea and other sources during pregnancy, and use actual serving information to plan your day.",
+    "word_count": 460,
+    "sources_used": [
+      "caffeine",
+      "acog"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "apple-cider-during-pregnancy",
+    "title": "Can You Drink Apple Cider While Pregnant? The Label Check",
+    "query": "apple cider during pregnancy",
+    "category": "Seasonal",
+    "sources": [
+      "fall",
+      "juice",
+      "cdc"
+    ],
+    "related": [
+      "halloween-food-pregnancy",
+      "smoothies-during-pregnancy"
+    ],
+    "scene": "pregnant woman in a light autumn sweater inspecting a plain cider bottle beside a basket of apples and one fallen leaf",
+    "alt": "Woman checking a cider bottle beside autumn apples",
+    "editorial_date": "2026-09-01",
+    "description": "Check apple cider pasteurization, alcohol content and storage during pregnancy before choosing your autumn drink.",
+    "word_count": 446,
+    "sources_used": [
+      "fall",
+      "juice",
+      "cdc"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "thanksgiving-food-pregnancy",
+    "title": "Thanksgiving While Pregnant: A Practical Plate Guide",
+    "query": "thanksgiving foods pregnancy",
+    "category": "Seasonal",
+    "sources": [
+      "turkey",
+      "temps",
+      "leftovers"
+    ],
+    "related": [
+      "leftovers-during-pregnancy",
+      "eggnog-during-pregnancy"
+    ],
+    "scene": "pregnant woman and another adult woman setting a simple Thanksgiving table with roast turkey, vegetables and a food thermometer, no numbers",
+    "alt": "Two women preparing a Thanksgiving table with a turkey and thermometer",
+    "editorial_date": "2026-09-03",
+    "description": "Enjoy Thanksgiving with practical pregnancy food checks for turkey, stuffing, party holding and the next day's leftovers.",
+    "word_count": 459,
+    "sources_used": [
+      "temps",
+      "turkey",
+      "leftovers"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "halloween-food-pregnancy",
+    "title": "Halloween While Pregnant: Candy, Cider and Party Food",
+    "query": "halloween food pregnancy",
+    "category": "Seasonal",
+    "sources": [
+      "fall",
+      "juice",
+      "rawflour"
+    ],
+    "related": [
+      "apple-cider-during-pregnancy",
+      "pumpkin-spice-latte-pregnancy"
+    ],
+    "scene": "pregnant woman holding a little wrapped sweet beside a small pumpkin, a bowl of wrapped treats and a cider bottle",
+    "alt": "Woman beside a pumpkin and a bowl of wrapped Halloween treats",
+    "editorial_date": "2026-09-04",
+    "description": "A calm pregnancy guide to Halloween treats, cider, raw dough and perishable party food, with practical choices.",
+    "word_count": 471,
+    "sources_used": [
+      "fall",
+      "rawflour"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "eggnog-during-pregnancy",
+    "title": "Can You Drink Eggnog While Pregnant? Check These Details",
+    "query": "eggnog while pregnant",
+    "category": "Seasonal",
+    "sources": [
+      "dairy",
+      "holiday",
+      "alcohol"
+    ],
+    "related": [
+      "eggs-during-pregnancy",
+      "thanksgiving-food-pregnancy"
+    ],
+    "scene": "pregnant woman checking a plain eggnog carton next to a ceramic mug, a cinnamon stick and a simple winter evergreen sprig",
+    "alt": "Woman checking an eggnog carton beside a winter mug",
+    "editorial_date": "2026-09-06",
+    "description": "Check milk, eggs, alcohol and refrigeration when choosing eggnog during pregnancy, including homemade preparations.",
+    "word_count": 453,
+    "sources_used": [
+      "dairy",
+      "holiday",
+      "alcohol"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "leftovers-during-pregnancy",
+    "title": "Leftovers During Pregnancy: Store and Reheat Them Well",
+    "query": "leftovers during pregnancy",
+    "category": "Everyday care",
+    "sources": [
+      "leftovers",
+      "storage",
+      "temps"
+    ],
+    "related": [
+      "pregnancy-meal-prep",
+      "takeout-during-pregnancy"
+    ],
+    "scene": "pregnant woman putting small lidded food containers into a simple open refrigerator, one clock outline and no numbers",
+    "alt": "Woman putting small containers of leftovers into a refrigerator",
+    "editorial_date": "2026-09-08",
+    "description": "Make tomorrow's meal easier with practical guidance on cooling, dating, storing and reheating leftovers during pregnancy.",
+    "word_count": 460,
+    "sources_used": [
+      "leftovers",
+      "storage",
+      "temps"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "eggs-during-pregnancy",
+    "title": "Can You Eat Eggs While Pregnant? Runny, Scrambled and More",
+    "query": "eggs during pregnancy",
+    "category": "Food safety",
+    "sources": [
+      "dairy",
+      "temps",
+      "cdc"
+    ],
+    "related": [
+      "pregnancy-breakfast-ideas",
+      "caesar-salad-during-pregnancy"
+    ],
+    "scene": "pregnant woman making scrambled eggs at a simple stovetop with a bowl of eggs and a spatula",
+    "alt": "Woman cooking scrambled eggs in a skillet",
+    "editorial_date": "2026-09-10",
+    "description": "Understand US pregnancy guidance for runny eggs, cooked egg dishes and uncooked sauces, with useful ordering questions.",
+    "word_count": 461,
+    "sources_used": [
+      "dairy",
+      "temps"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "salmon-during-pregnancy",
+    "title": "Salmon During Pregnancy: Cooked, Smoked and Canned",
+    "query": "salmon during pregnancy",
+    "category": "Food safety",
+    "sources": [
+      "fish",
+      "meat",
+      "ready"
+    ],
+    "related": [
+      "sushi-while-pregnant",
+      "tuna-during-pregnancy"
+    ],
+    "scene": "pregnant woman preparing a cooked salmon plate with a closed fish can and a small food thermometer beside it",
+    "alt": "Woman preparing a salmon plate beside a can and thermometer",
+    "editorial_date": "2026-09-11",
+    "description": "Understand the differences between cooked, refrigerated smoked and canned salmon during pregnancy, including preparation checks.",
+    "word_count": 453,
+    "sources_used": [
+      "fish",
+      "meat",
+      "ready"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "tuna-during-pregnancy",
+    "title": "Tuna During Pregnancy: The Type Matters More Than the Name",
+    "query": "tuna during pregnancy",
+    "category": "Food safety",
+    "sources": [
+      "fish",
+      "fishqa",
+      "meat"
+    ],
+    "related": [
+      "salmon-during-pregnancy",
+      "pregnancy-lunch-ideas"
+    ],
+    "scene": "pregnant woman comparing two plain tuna cans at a counter beside a bowl and fork, no readable package text",
+    "alt": "Woman comparing tuna cans at a kitchen counter",
+    "editorial_date": "2026-09-13",
+    "description": "Read the tuna type on the label and understand FDA fish categories, weekly serving guidance and cooking considerations.",
+    "word_count": 465,
+    "sources_used": [
+      "fish",
+      "fishqa"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "shrimp-during-pregnancy",
+    "title": "Can You Eat Shrimp While Pregnant? Cooking and Ordering",
+    "query": "shrimp while pregnant",
+    "category": "Food safety",
+    "sources": [
+      "fish",
+      "meat",
+      "temps"
+    ],
+    "related": [
+      "sushi-while-pregnant",
+      "eating-out-while-pregnant"
+    ],
+    "scene": "pregnant woman serving a small skillet of cooked shrimp and vegetables with a wooden spoon",
+    "alt": "Woman serving cooked shrimp and vegetables",
+    "editorial_date": "2026-09-15",
+    "description": "A practical guide to cooked shrimp during pregnancy, from preparation and restaurant questions to cold handling.",
+    "word_count": 460,
+    "sources_used": [
+      "fish",
+      "meat",
+      "temps"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "salads-during-pregnancy",
+    "title": "Salads During Pregnancy: Leaves, Toppings and Storage",
+    "query": "salad during pregnancy",
+    "category": "Food safety",
+    "sources": [
+      "produce",
+      "wash",
+      "cdc"
+    ],
+    "related": [
+      "washing-produce-pregnancy",
+      "sprouts-during-pregnancy"
+    ],
+    "scene": "pregnant woman arranging washed salad leaves in a bowl with cucumber and a plain cheese pack on the counter",
+    "alt": "Woman making a salad with leaves and cucumber",
+    "editorial_date": "2026-09-16",
+    "description": "Check salad leaves, dressings, toppings and cold storage during pregnancy without relying on a healthy menu label.",
+    "word_count": 462,
+    "sources_used": [
+      "produce",
+      "cdc",
+      "wash"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "sprouts-during-pregnancy",
+    "title": "Can You Eat Sprouts While Pregnant? Raw and Cooked",
+    "query": "sprouts during pregnancy",
+    "category": "Food safety",
+    "sources": [
+      "produce",
+      "restaurant",
+      "cdc"
+    ],
+    "related": [
+      "salads-during-pregnancy",
+      "eating-out-while-pregnant"
+    ],
+    "scene": "pregnant woman stirring bean sprouts in a hot wok with simple steam strokes, sparse kitchen background",
+    "alt": "Woman cooking bean sprouts in a wok",
+    "editorial_date": "2026-09-18",
+    "description": "Learn why raw sprouts need a different approach during pregnancy, what to ask when ordering and how to keep the crunch.",
+    "word_count": 465,
+    "sources_used": [
+      "produce",
+      "cdc",
+      "restaurant"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "caesar-salad-during-pregnancy",
+    "title": "Caesar Salad During Pregnancy: Ask About the Dressing",
+    "query": "caesar salad during pregnancy",
+    "category": "Food safety",
+    "sources": [
+      "dairy",
+      "restaurant",
+      "wash"
+    ],
+    "related": [
+      "eggs-during-pregnancy",
+      "salads-during-pregnancy"
+    ],
+    "scene": "pregnant woman holding a plain dressing bottle beside a salad bowl and a small whisk",
+    "alt": "Woman checking salad dressing beside a bowl and whisk",
+    "editorial_date": "2026-09-20",
+    "description": "Ask about Caesar dressing during pregnancy, including egg preparation, toppings, washed leaves and refrigeration.",
+    "word_count": 482,
+    "sources_used": [
+      "dairy",
+      "restaurant",
+      "wash"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "ice-cream-during-pregnancy",
+    "title": "Ice Cream During Pregnancy: Dairy, Eggs and Storage",
+    "query": "ice cream during pregnancy",
+    "category": "Food safety",
+    "sources": [
+      "dairy",
+      "cdc",
+      "holiday"
+    ],
+    "related": [
+      "halloween-food-pregnancy",
+      "eggnog-during-pregnancy"
+    ],
+    "scene": "pregnant woman smiling with a small bowl of ice cream and a spoon, one plain ice cream tub nearby",
+    "alt": "Woman enjoying a bowl of ice cream",
+    "editorial_date": "2026-09-22",
+    "description": "Check dairy, egg preparation and frozen storage when choosing ice cream during pregnancy, at home or at a shop.",
+    "word_count": 462,
+    "sources_used": [
+      "icecream"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "hummus-during-pregnancy",
+    "title": "Hummus During Pregnancy: Ingredients and Fridge Habits",
+    "query": "hummus during pregnancy",
+    "category": "Food safety",
+    "sources": [
+      "cdc",
+      "chill",
+      "recalls"
+    ],
+    "related": [
+      "pregnancy-lunch-ideas",
+      "pregnancy-grocery-list"
+    ],
+    "scene": "pregnant woman preparing hummus with a blender, chickpeas and carrot sticks, uncluttered ivory counter",
+    "alt": "Woman preparing hummus with chickpeas and carrot sticks",
+    "editorial_date": "2026-09-23",
+    "description": "A practical pregnancy guide to hummus ingredients, opening instructions, cold storage and checking a specific recall.",
+    "word_count": 473,
+    "sources_used": [
+      "chill",
+      "recalls"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "smoothies-during-pregnancy",
+    "title": "Smoothies During Pregnancy: Build a Better Blending Routine",
+    "query": "smoothies during pregnancy",
+    "category": "Drinks",
+    "sources": [
+      "juice",
+      "wash",
+      "acog"
+    ],
+    "related": [
+      "apple-cider-during-pregnancy",
+      "pregnancy-breakfast-ideas"
+    ],
+    "scene": "pregnant woman placing washed berries into a blender beside a plain milk carton and banana",
+    "alt": "Woman adding berries to a blender beside milk and banana",
+    "editorial_date": "2026-09-25",
+    "description": "Build a useful pregnancy smoothie routine with known ingredients, treated juice, appropriate produce and clean equipment.",
+    "word_count": 475,
+    "sources_used": [
+      "juice",
+      "acog",
+      "wash"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "washing-produce-pregnancy",
+    "title": "How to Wash Fruit and Vegetables During Pregnancy",
+    "query": "how to wash fruit during pregnancy",
+    "category": "Everyday care",
+    "sources": [
+      "wash",
+      "produce",
+      "cdc"
+    ],
+    "related": [
+      "salads-during-pregnancy",
+      "sprouts-during-pregnancy"
+    ],
+    "scene": "close view of an adult woman's hands washing an apple under a running kitchen tap, little vegetable brush beside sink",
+    "alt": "Hands rinsing an apple under running water",
+    "editorial_date": "2026-09-27",
+    "description": "Use plain running water and practical preparation habits to wash fruit and vegetables during pregnancy.",
+    "word_count": 475,
+    "sources_used": [
+      "wash",
+      "produce",
+      "cdc"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "eating-out-while-pregnant",
+    "title": "Eating Out While Pregnant: Four Useful Menu Questions",
+    "query": "eating out while pregnant",
+    "category": "Everyday care",
+    "sources": [
+      "restaurant",
+      "temps",
+      "cdc"
+    ],
+    "related": [
+      "sushi-while-pregnant",
+      "caesar-salad-during-pregnancy"
+    ],
+    "scene": "pregnant woman at a small cafe table talking with an adult woman server holding a simple menu with no readable text",
+    "alt": "Pregnant diner asking a server about a menu",
+    "editorial_date": "2026-09-28",
+    "description": "Four specific questions to ask when eating out during pregnancy: ingredients, cooking, raw additions and holding.",
+    "word_count": 477,
+    "sources_used": [
+      "restaurant",
+      "temps",
+      "cdc"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "takeout-during-pregnancy",
+    "title": "Takeout During Pregnancy: From Doorstep to Dinner",
+    "query": "takeout during pregnancy",
+    "category": "Everyday care",
+    "sources": [
+      "restaurant",
+      "leftovers",
+      "chill"
+    ],
+    "related": [
+      "leftovers-during-pregnancy",
+      "eating-out-while-pregnant"
+    ],
+    "scene": "pregnant woman unpacking a plain takeout bag onto a table with two closed containers and a plate",
+    "alt": "Woman unpacking takeout containers at home",
+    "editorial_date": "2026-09-30",
+    "description": "Handle pregnancy takeout from ordering to arrival, with practical preparation checks, prompt storage and leftover planning.",
+    "word_count": 479,
+    "sources_used": [
+      "restaurant",
+      "chill",
+      "leftovers"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "pregnancy-meal-prep",
+    "title": "Pregnancy Meal Prep: Plan a Few Meals, Keep Them Flexible",
+    "query": "pregnancy meal prep",
+    "category": "Meal ideas",
+    "sources": [
+      "leftovers",
+      "storage",
+      "acog"
+    ],
+    "related": [
+      "pregnancy-grocery-list",
+      "leftovers-during-pregnancy"
+    ],
+    "scene": "pregnant woman dividing cooked vegetables and rice into three small containers, handwritten notebook with no letters nearby",
+    "alt": "Woman portioning food into meal prep containers",
+    "editorial_date": "2026-10-02",
+    "description": "Plan a few flexible pregnancy meals with manageable portions, clear dates, appropriate cooling and a realistic backup.",
+    "word_count": 496,
+    "sources_used": [
+      "acog",
+      "leftovers",
+      "storage"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "pregnancy-grocery-list",
+    "title": "A Pregnancy Grocery List That Makes Dinner Easier",
+    "query": "pregnancy grocery list",
+    "category": "Meal ideas",
+    "sources": [
+      "acog",
+      "cdc",
+      "fish"
+    ],
+    "related": [
+      "cheese-during-pregnancy",
+      "pregnancy-meal-prep"
+    ],
+    "scene": "pregnant woman with reusable grocery tote containing vegetables, a plain yogurt pot and oats, one short shelf in background",
+    "alt": "Woman carrying groceries in a reusable tote",
+    "editorial_date": "2026-10-04",
+    "description": "Build a practical pregnancy grocery list around usable meals, varied ingredients, label checks and your actual week.",
+    "word_count": 487,
+    "sources_used": [
+      "acog",
+      "cdc",
+      "fish"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "pregnancy-breakfast-ideas",
+    "title": "Pregnancy Breakfast Ideas for Mornings That Feel Different",
+    "query": "pregnancy breakfast ideas",
+    "category": "Meal ideas",
+    "sources": [
+      "acog",
+      "nausea",
+      "dairy"
+    ],
+    "related": [
+      "eggs-during-pregnancy",
+      "smoothies-during-pregnancy"
+    ],
+    "scene": "pregnant woman at breakfast table with oatmeal, toast and a small plain yogurt pot, warm sparse ivory background",
+    "alt": "Woman at a breakfast table with oats, toast and yogurt",
+    "editorial_date": "2026-10-05",
+    "description": "Flexible pregnancy breakfast ideas for changing mornings, including gentle, cold and cooked options with preparation checks.",
+    "word_count": 496,
+    "sources_used": [
+      "acog",
+      "nausea",
+      "dairy"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "pregnancy-lunch-ideas",
+    "title": "Pregnancy Lunch Ideas for Work, Home and Busy Days",
+    "query": "pregnancy lunch ideas",
+    "category": "Meal ideas",
+    "sources": [
+      "acog",
+      "storage",
+      "restaurant"
+    ],
+    "related": [
+      "deli-meat-while-pregnant",
+      "pregnancy-meal-prep"
+    ],
+    "scene": "pregnant woman packing a lunch bag with a cooked grain bowl, an apple and a small ice pack",
+    "alt": "Woman packing a lunch bag with a grain bowl and ice pack",
+    "editorial_date": "2026-10-07",
+    "description": "Find practical pregnancy lunches for home and work, with meal options and realistic refrigeration and transport plans.",
+    "word_count": 489,
+    "sources_used": [
+      "storage",
+      "restaurant",
+      "acog"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "pregnancy-dinner-ideas",
+    "title": "Pregnancy Dinner Ideas When You Have Run Out of Ideas",
+    "query": "pregnancy dinner ideas",
+    "category": "Meal ideas",
+    "sources": [
+      "acog",
+      "temps",
+      "fish"
+    ],
+    "related": [
+      "pregnancy-meal-prep",
+      "salmon-during-pregnancy"
+    ],
+    "scene": "pregnant woman serving a simple lentil and vegetable dinner in a bowl at a small table, one pot nearby",
+    "alt": "Woman serving a lentil and vegetable dinner",
+    "editorial_date": "2026-10-09",
+    "description": "Six adaptable pregnancy dinner formats for changing appetites and busy evenings, with practical cooking considerations.",
+    "word_count": 494,
+    "sources_used": [
+      "temps",
+      "fish",
+      "acog"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "pumpkin-spice-latte-pregnancy",
+    "title": "Pumpkin Spice Lattes During Pregnancy: Check Your Cup",
+    "query": "pumpkin spice latte pregnancy",
+    "category": "Seasonal",
+    "sources": [
+      "caffeine",
+      "acog",
+      "dairy"
+    ],
+    "related": [
+      "caffeine-during-pregnancy",
+      "apple-cider-during-pregnancy"
+    ],
+    "scene": "pregnant woman in a cozy sweater holding a plain takeaway coffee cup beside a small pumpkin and one autumn leaf",
+    "alt": "Woman holding a coffee cup beside a small pumpkin",
+    "editorial_date": "2026-10-11",
+    "description": "Check your pumpkin spice latte's size, caffeine and ingredients during pregnancy using current information for the actual drink.",
+    "word_count": 457,
+    "sources_used": [
+      "caffeine",
+      "dairy",
+      "acog"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "pregnancy-food-scanner",
+    "title": "What a Pregnancy Food Scanner Can Help You Check",
+    "query": "pregnancy food scanner",
+    "category": "Using Embryly",
+    "sources": [
+      "cdc",
+      "temps",
+      "product"
+    ],
+    "related": [
+      "food-labels-during-pregnancy",
+      "eating-out-while-pregnant"
+    ],
+    "scene": "pregnant woman holding a phone over a plate of cooked food with a plain ingredient package and a food thermometer beside the plate, no visible screen or scan beams",
+    "alt": "Woman holding a phone above a meal with a package and thermometer nearby",
+    "editorial_date": "2026-10-12",
+    "description": "Understand what Embryly's pregnancy food and barcode scans can help you check, and which details need separate verification.",
+    "word_count": 481,
+    "sources_used": [
+      "cdc",
+      "temps",
+      "product"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  },
+  {
+    "slug": "food-labels-during-pregnancy",
+    "title": "Reading Food Labels During Pregnancy: Beyond the Barcode",
+    "query": "food labels during pregnancy",
+    "category": "Using Embryly",
+    "sources": [
+      "allergens",
+      "juice",
+      "product"
+    ],
+    "related": [
+      "pregnancy-food-scanner",
+      "cheese-during-pregnancy"
+    ],
+    "scene": "pregnant woman inspecting the back of a plain food package beside a phone with its screen turned away, abstract label lines with no words",
+    "alt": "Woman checking a food package beside her phone",
+    "editorial_date": "2026-10-14",
+    "description": "Read ingredients, allergens, processing and storage on the actual package alongside your pregnancy barcode lookup.",
+    "word_count": 469,
+    "sources_used": [
+      "juice",
+      "allergens",
+      "product"
+    ],
+    "checked_date": "2026-10-14",
+    "status": "local preview",
+    "measured_search_volume": null,
+    "published_date": "2026-10-14"
+  }
+]
