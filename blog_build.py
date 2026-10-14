@@ -108,6 +108,9 @@ def build(root):
     ET.register_namespace('',ns)
     sitemap=root/'sitemap.xml'
     tree=ET.parse(sitemap)
+    for loc in tree.getroot().iter(f'{{{ns}}}loc'):
+        if loc.text:
+            loc.text=loc.text.replace('https://embryly-website.vercel.app',origin)
     for item in list(tree.getroot()):
         loc=item.find(f'{{{ns}}}loc')
         if loc is not None and any(loc.text==origin+f'/blog/{t["slug"]}.html' for t in topics):tree.getroot().remove(item)
